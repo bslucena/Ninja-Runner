@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 182182102}
   - component: {fileID: 182182101}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Enemy 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 521749183}
   - component: {fileID: 521749182}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Enemy 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -708,6 +708,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.0871517, y: 0, z: 0, w: 0.9961947}
   m_LocalPosition: {x: 0, y: 5, z: -11.03}
   m_LocalScale: {x: 0, y: 0, z: 0}
@@ -715,6 +716,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 10, y: 0, z: 0}
+=======
+  m_LocalRotation: {x: 0.15298584, y: 0, z: 0, w: 0.9882284}
+  m_LocalPosition: {x: 0, y: 7.7, z: -12.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 17.6, y: 0, z: 0}
+>>>>>>> master
 --- !u!1 &1235975068
 GameObject:
   m_ObjectHideFlags: 0
@@ -728,7 +738,7 @@ GameObject:
   - component: {fileID: 1235975070}
   - component: {fileID: 1235975069}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Powerup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -824,7 +834,7 @@ GameObject:
   - component: {fileID: 1272579654}
   - component: {fileID: 1272579653}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Enemy 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -919,7 +929,7 @@ GameObject:
   - component: {fileID: 1987002062}
   - component: {fileID: 1987002061}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Enemy 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
